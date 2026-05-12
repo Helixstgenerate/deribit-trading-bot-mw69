@@ -1,4 +1,4 @@
-# 
+# deribit trading bot ultimate Bot - perpetual-trading and stop-loss is the best deribit trading bot, featuring perpetual-trading and stop-loss. Smart, fast, and optimized for
 
 
 
